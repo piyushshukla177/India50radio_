@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1035318122090",
+    "project_id": "india50pusradio",
+    "storage_bucket": "india50pusradio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035318122090:android:353a7c33a18a98c3dd1c13",
+        "android_client_info": {
+          "package_name": "com.india50.plusradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035318122090-a6ofc3tt6e0uh1i6el6kvap5uukj52p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUfP5AhNCTIMY7tS75duyxPR9ixDPw4C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035318122090-a6ofc3tt6e0uh1i6el6kvap5uukj52p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035318122090:android:751676fdf453034bdd1c13",
+        "android_client_info": {
+          "package_name": "com.vpapps.indiaradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035318122090-a6ofc3tt6e0uh1i6el6kvap5uukj52p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUfP5AhNCTIMY7tS75duyxPR9ixDPw4C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035318122090-a6ofc3tt6e0uh1i6el6kvap5uukj52p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
